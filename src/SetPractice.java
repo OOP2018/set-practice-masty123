@@ -54,7 +54,7 @@ public class SetPractice {
 		
 		// 4. Remove all the elements from the set, using a method that 
 		// defined in Set (and Collection). What is the method to use?
-		set.clear();
+		set.clear(); 
 		
 		// 5. Add same elements as exercise 1, but in a different order,
 		// such as: "cat", "elephant", "bird", "ant", "dog"
